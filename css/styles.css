@@ -3,12 +3,13 @@ body {
 }
 
 div {
-  font-family: Arial;
+  font-family: Helvetica;
 }
 
 .name {
   color: rgb(73, 71, 71);
   text-align: center;
+  text-shadow: 2px 2px 5px gray;
 }
 
 ul {
@@ -31,15 +32,40 @@ ol {
 .heading {
   color: rgb(73, 71, 71);
   text-align: center;
+  text-shadow: 2px 2px 5px gray;
 }
 
 .paragraph {
   color: white;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 500px;
+  margin-left: 500px;
 }
 
 .column {
-  width: 500px;
+  width: 600px;
   float: left;
+  border-style: solid;
+  border-width: thick;
+  border-color: white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 20px;
+  margin-left: 130px;
+}
+
+.column2 {
+  width: 600px;
+  float: left;
+  border-style: solid;
+  border-width: thick;
+  border-color: white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 .image1 {
