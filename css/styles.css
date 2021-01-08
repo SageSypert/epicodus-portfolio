@@ -21,17 +21,11 @@ ol {
 
 .projects {
   color: white;
+  text-align: center;
 }
 
 .blm {
   color: black;
-}
-
-.image1 {
-  display: block;
-  width: 20%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .heading {
@@ -46,4 +40,18 @@ ol {
 .column {
   width: 500px;
   float: left;
+}
+
+.image1 {
+  display: block;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image2 {
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
 }
