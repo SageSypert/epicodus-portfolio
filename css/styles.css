@@ -2,14 +2,19 @@ body {
   background-color:rgb(156, 155, 154)
 }
 
-h1 {
+h1.name {
   color: white;
   text-align: center;
 }
 
-.center {
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 25%;
+}
+
+.heading {
+  color: white;
+  text-align: center;
 }
