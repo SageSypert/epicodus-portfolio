@@ -2,19 +2,40 @@ body {
   background-color:rgb(156, 155, 154)
 }
 
-h1.name {
-  color: white;
+div {
+  font-family: Arial;
+}
+
+.name {
+  color: rgb(73, 71, 71);
   text-align: center;
 }
 
-img {
+ul {
+  color: white;
+}
+
+ol {
+  color: white;
+}
+
+.image1 {
   display: block;
+  width: 20%;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
 }
 
 .heading {
-  color: white;
+  color: rgb(73, 71, 71);
   text-align: center;
+}
+
+.paragraph {
+  color: white;
+}
+
+.column {
+  width: 500px;
+  float: left;
 }
