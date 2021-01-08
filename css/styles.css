@@ -39,7 +39,7 @@ ol {
   color: white;
   text-align: center;
   margin-top: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   margin-right: 500px;
   margin-left: 500px;
 }
@@ -50,10 +50,12 @@ ol {
   border-style: solid;
   border-width: thick;
   border-color: white;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-bottom: 30px;
   margin-right: 20px;
-  margin-left: 130px;
+  margin-left: 120px;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .column2 {
@@ -62,10 +64,12 @@ ol {
   border-style: solid;
   border-width: thick;
   border-color: white;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-bottom: 30px;
   margin-right: 20px;
   margin-left: 20px;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .image1 {
@@ -73,6 +77,7 @@ ol {
   width: 20%;
   margin-left: auto;
   margin-right: auto;
+  border: 5px solid #555;
 }
 
 .image2 {
