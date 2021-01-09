@@ -27,6 +27,8 @@ _Basic portfolio webpage to serve as week one independent project for student Sa
 
 _MIT License_
 
+Copyright (c) 2021 Sage Sypert
+
 ## Contact Information
 
 _Sage Sypert <sage.sypert@gmail.com>_
