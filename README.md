@@ -17,7 +17,7 @@ _Basic portfolio webpage to serve as week one independent project for student Sa
 
 ## Setup/Installation Requirements
 
-* _Open in modern browser_
+* _[Open site in modern browser](https://sagesypert.github.io/epicodus-portfolio/)_
 
 ## Known Bugs
 
